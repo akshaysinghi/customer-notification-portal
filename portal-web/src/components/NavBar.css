@@ -1,0 +1,10 @@
+.notification-logo {
+    height: 2em;    
+}
+.position-badge {
+    top: -10px;
+    left: 12px;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
