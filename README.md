@@ -1,4 +1,4 @@
-# Docomo customer portal
+# customer notification portal
 
 
 ## Run project via Docker
