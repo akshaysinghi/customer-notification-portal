@@ -22,7 +22,7 @@ This will get a docker image of the project locally.
 To install this application, run the following commands:
 
 ```bash
-git clone https://github.com/akshaysinghi/docomo-portal.git
+git clone https://github.com/akshaysinghi/customer-notification-portal.git
 cd portal
 ```
 
