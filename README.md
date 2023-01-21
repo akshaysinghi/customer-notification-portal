@@ -1,4 +1,4 @@
-# customer notification portal (Java/ REactJS)
+# customer notification portal (Java/ ReactJS)
 
 
 ## Run project via Docker
