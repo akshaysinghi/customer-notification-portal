@@ -1,4 +1,4 @@
-# customer notification portal
+# customer notification portal (Java/ REactJS)
 
 
 ## Run project via Docker
@@ -33,7 +33,7 @@ To run the backend server, run:
 ```bash
 mvn spring-boot:run
 open web browser and type http://localhost:8080
-Check Datebase: http://localhost:8080/h2
+Check Database: http://localhost:8080/h2
 ```
 
 
